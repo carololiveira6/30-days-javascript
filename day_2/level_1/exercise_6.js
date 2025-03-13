@@ -1,6 +1,6 @@
 // Cut (slice) out the first word of the string using substr() or substring() method
 
-challenge = '30 Days of JavaScript';
+let challenge = '30 Days of JavaScript';
 
 console.log(challenge); // 30 Days of JavaScript
 
